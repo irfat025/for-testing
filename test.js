@@ -1,3 +1,8 @@
 console.log('ok')
+<<<<<<< HEAD
 console.log('hello world 1234')
-hiii
+
+=======
+console.log('hello world prithul')
+sorry
+>>>>>>> main
